@@ -1,0 +1,33 @@
+body{
+    background:burlywood;
+}
+img{
+    
+    height: auto;
+    width: 260px;
+    
+}
+.main{
+    color: rgb(8, 32, 51);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2rem;
+
+}
+h2{
+    color: rgb(41, 58, 73);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    color: rgb(61, 82, 100);
+    font-family: sans-serif;
+}
+p{
+    color: rgb(51, 71, 88);
+    font-family: sans-serif;
+
+}
+li{
+    color: rgb(32, 55, 75);
+    font-size: large;
+    font-family: sans-serif;
+}
